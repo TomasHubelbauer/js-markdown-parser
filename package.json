@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "start": "node --experimental-modules index.mjs"
+  },
+  "dependencies": {
+    "all-the-package-names": "^1.3793.0",
+    "node-fetch": "^2.6.0"
+  }
+}
